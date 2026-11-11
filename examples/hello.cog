@@ -1,0 +1,8 @@
+// Prints a greeting and counts to five.
+print("Hello from Cog")
+
+let i = 1
+while i <= 5 {
+  print("count: " + i)
+  i = i + 1
+}
